@@ -261,6 +261,6 @@ MIT License © 2025 پروژه‌یار
 
 ⭐ اگه از این پروژه خوشت اومد، یه ستاره بده! ⭐
 
-<sub>Made with 💛 + ☕ + 🎨 in Iran</sub>
+<sub>Made with 💛 + ☕ + 🎨</sub>
 
 </div>
